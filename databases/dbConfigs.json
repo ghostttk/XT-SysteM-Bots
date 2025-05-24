@@ -1,0 +1,74 @@
+{
+    "vendas": {
+        "channels": {
+            "channelLogsPrivId": "none",
+            "channelLogsPublicId": "none",
+            "categoryCartsId": "none"
+        },
+        "roles": {
+            "roleCustomerId": "none"
+        },
+        "images": {
+            "bannerUrl": "none",
+            "thumbUrl": "none"
+        },
+        "embeds": {
+            "color": "none"
+        },
+        "payments": {
+            "mpAcessToken": "none",
+            "paymentsOptions": {
+                "pix": false,
+                "balance": false,
+                "site": false,
+                "semiAuto": false
+            }
+        },
+        "balance": {
+            "bonusDeposit": 0,
+            "minimumDeposit": 0
+        },
+        "semiAuto": {
+            "pix": {
+                "key": "none",
+                "keyType": "none"
+            },
+            "qrCode": "none"
+        },
+        "termsPurchase": "none",
+        "buttonDuvidas": "none",
+        "newSales": true,
+        "owner": "none"
+    },
+    "ticket": {
+        "pagamentos": {
+            "acess_token": "",
+            "tempo": 10,
+            "sistema": "OFF",
+            "blockbank": []
+        },
+        "sugest": {
+            "certo": "✅",
+            "errado": "❌",
+            "sistema": "OFF",
+            "channel": "none"
+        },
+        "ticket": {
+            "cargo_staff": "none",
+            "canal_logs": "none",
+            "canal_avalia": "none",
+            "categoria": "none"
+        },
+        "painel": {
+            "desc": ":bell: | Olá {user}! **Seja bem-vindo(a) ao seu ticket.**\n\n:zap: | Os **TICKETS** são totalmente privados, apenas membros da STAFF possuem acesso a este canal.\n\n:rotating_light: | Evite **MARCAÇÕES.** Aguarde até que um **STAFF** te atenda.\n\n:man_police_officer: | Staff que assumiu o ticket {assumido}\n:envelope_with_arrow: | Motivo do Ticket: __**{motivo}**__\n\n⏰ | Horário de abertura: {horario1} ({horario2})",
+            "button": {
+                "sair": "<:1166960884220960788:1239447539489443894>",
+                "membro": "<:1166960974604017694:1225478267990048928>",
+                "staff": "<:suportee:1239447771858079795>",
+                "assumir": "<:coroa:1239447680292229120>",
+                "finalizar": "<:1166960963988230195:1239447625737048154>"
+            }
+        },
+        "color": "#460580"
+    }
+}
