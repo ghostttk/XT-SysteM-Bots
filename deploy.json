@@ -1,0 +1,11 @@
+{
+  "owner_id": "SEU ID",
+  "type": "Vendas",
+  "version": "1.5.48",
+  "token": "AQUI VAI O TOKEN DO BOT",
+  "permissions": [
+    "QUEM VAI TER PERMISSAO",
+    "PODE POR VARIAS PESSOAS ASSIM",
+    "BASTA PULAR UMA LINHA, COLOCAR ASPAS E VIRGULA"
+  ]
+}

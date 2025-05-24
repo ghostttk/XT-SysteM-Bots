@@ -1,0 +1,16 @@
+{
+  "dependencies": {
+    "@discordjs/voice": "^0.18.0",
+    "adm-zip": "^0.5.16",
+    "axios": "^1.8.4",
+    "better-sqlite3": "^11.9.1",
+    "canvas": "^3.1.0",
+    "chartjs-node-canvas": "^5.0.0",
+    "discord.js": "^14.19.2",
+    "imap": "^0.8.19",
+    "mercadopago": "^2.4.0",
+    "qrcode": "^1.5.4",
+    "quick.db": "^9.1.7",
+    "wio.db": "^4.0.22"
+  }
+}
